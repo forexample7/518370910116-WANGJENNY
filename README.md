@@ -1,6 +1,5 @@
 # Creative Programming homework
-### 作业提交要求
-processing work
+### processing work
 
 A place to upload all the course work of Creative Programming
 
