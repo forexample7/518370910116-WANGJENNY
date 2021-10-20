@@ -12,4 +12,4 @@
 
 记住以上操作就可以试一试啦～
 
-![illustration](interactive_brush/canvas-####.tif)
+![illustration](interactive_brush/canvas-0.png)
