@@ -1,3 +1,7 @@
-.
-### 上传你的ppt或pdf文件
-（内容说明选填）
+### Homework 1
+
+101 lesson to Creative Programming slash Processing
+
+An interesting introductory to a new language
+
+Some ideas and thoughts about generative art and creativity
