@@ -10,7 +10,7 @@
 
 记住以上操作就可以试一试啦～
 
-![illustration](emerge/hello.mp4)
+![illustration](https://github.com/forexample7/518370910116-WANGJENNY/blob/main/Week06/emerge/hello2.gif)
 
 ### Emerge Round
 
