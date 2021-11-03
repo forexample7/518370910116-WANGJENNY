@@ -11,7 +11,8 @@
 
 记住以上操作就可以试一试啦～  
 
-![illustration](recursive/r9f4l-4hy6r.gif)
+![illustration](https://github.com/forexample7/518370910116-WANGJENNY/blob/main/week07/recursive/pic.png)
+![illustration](https://github.com/forexample7/518370910116-WANGJENNY/blob/main/week07/recursive/r9f4l-4hy6r.gif)
 
 ### Emerge Round
 
