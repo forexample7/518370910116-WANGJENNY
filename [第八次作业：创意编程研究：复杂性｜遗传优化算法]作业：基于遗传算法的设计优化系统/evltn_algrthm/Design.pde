@@ -57,7 +57,7 @@ class Design {
 
     // Display fitness value
     textAlign(CENTER);
-    if (rolloverOn) fill(0);
+    if (rolloverOn) fill(1);
     else fill(0.25);
     text(int(fitness), x+wh/2, y+wh+20);
   }

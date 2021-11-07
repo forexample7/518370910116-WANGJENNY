@@ -77,7 +77,7 @@ class Population {
       // Fill the new population with the new child
       //population[i] = new Design(child, 70+(i%(population.length/2))*220, 100 + ceil(i/(population.length/2))*240);
       float angle = TWO_PI/population.length;
-      population[i] = new Design(new DNA(), width/2+cos(angle*i)*250-s.width/2, height/2+sin(angle*i)*250-s.height/2);
+      population[i] = new Design(child, width/2+cos(angle*i)*250-s.width/2, height/2+sin(angle*i)*250-s.height/2);
     }
     generations++;
   }

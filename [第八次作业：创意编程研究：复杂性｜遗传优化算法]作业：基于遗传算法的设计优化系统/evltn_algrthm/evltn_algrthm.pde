@@ -7,7 +7,7 @@ Button button;
 void setup() {
   size(1000, 720);
   colorMode(RGB, 1.0);
-  font = createFont("Helvetica", 24);
+  font = createFont("Futura", 24);
   s = loadShape("star.svg"); 
   s.disableStyle();
   int popmax = 8;
@@ -17,16 +17,20 @@ void setup() {
   // Create a population with a target phrase, mutation rate, and population max
   population = new Population(mutationRate, popmax);
   // A simple button class
-  button = new Button(width/2-120, height/2, 240, 40, "New Color Pattern");
+  button = new Button(width/2-110, height/2, 220, 40, "New Color Pattern");
 }
 
 void draw() {
-  background(1.0);
+  background(0);
   // Display the pallettes
   population.display();
   population.rollover(mouseX, mouseY);
   fill(0.5, 0.5);
   ellipse(mouseX, mouseY, 30, 30);
+  fill(0.8);
+  stroke(0);
+  strokeWeight(2);
+  ellipse(width/2, height/2, 260, 260);
   // Display some text
   textAlign(CENTER);
   fill(0);
@@ -49,4 +53,10 @@ void mousePressed() {
 
 void mouseReleased() {
   button.released();
+}
+
+void keyPressed(){
+  if (key == 's'){
+    save("demo.png");
+  }
 }

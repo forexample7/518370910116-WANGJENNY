@@ -1,5 +1,3 @@
-
-
 class DNA {
 
   // The genetic sequence
