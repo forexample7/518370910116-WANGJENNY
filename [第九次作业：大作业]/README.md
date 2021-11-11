@@ -15,25 +15,25 @@
 
 ### 主要功能
 程序初始界面：  
-![image](tool/display0.png)
+![image](https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display0.png)
 点击鼠标``mouseClick``进入字体设计界面：  
-![image](tool/display1.png)
+![image](https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display1.png)
 按键盘``TAB``可以切换字体设计：  
 <table>
 	<tr>
 		<td>
-			<img src=tool/display2.png border=0>
+			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display2.png border=0>
 		</td>
 		<td>
-			<img src=tool/display3.png border=0>
+			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display3.png border=0>
 		</td>
 	</tr>
 	<tr>
 	<td>
-			<img src=tool/display4.png border=0>
+			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display4.png border=0>
 		</td>
 		<td>
-			<img src=tool/display5.png border=0>
+			<img src=https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display5.png border=0>
 		</td>
 	</tr>
 </table>  
@@ -41,6 +41,6 @@ remark: 这两种字体动态效果能够根据鼠标的位置进行交互变化
 再次点击鼠标``mouseClick``回到程序初始界面  
 
 ### 辅助功能
-``空格`` 保存图片
-``[``开始录制视频
-``]``结束录制视频
+``空格`` 保存图片  
+``[``开始录制视频  
+``]``结束录制视频  
