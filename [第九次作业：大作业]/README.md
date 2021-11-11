@@ -1,14 +1,42 @@
-# Homework 4
-## Text variation
+# 课程大作业
+## 交互设计工具
 
-This work shows the dynamic move and color change of text "aloha" with regard to sin function. 
+### 作业简介
+本作业主要围绕字体的重新设计和交互体验，每个使用的人都可以创建独一无二的字体。  
+这个程序实现了对所有字母的设计，以及三种不同风格的动态字体的功能。用户能够保存满意的字体作品图片和视频，并用于自己的个性化用途。
 
-You can try press the mouse and see the color change!
+### 程序思路
 
+  	创建空白画布PGraphics
+  	输入字符串String
+  	将画布PGraphics转化为像素图PImage
+  	读取字符所占所有位置向量PVector[]
+  	对像素进行处理
 
+### 主要功能
+程序初始界面：
+![image](tool/display0.png)
+点击鼠标``mouseClick``进入字体设计界面：
+![image](tool/display1.png)
+按键盘``TAB``可以切换字体设计：
+<table>
+	<tr>
+		<td>
+			<img src=tool/display2.png border=0>
+		</td>
+		<td>
+			<img src=tool/display3.png border=0>
+		</td>
+	</tr>
+	<tr>
+	<td>
+			<img src=tool/display4.png border=0>
+		</td>
+		<td>
+			<img src=tool/display5.png border=0>
+		</td>
+	</tr>
+</table>
+remark: 这两种字体动态效果能够根据鼠标的位置进行交互变化  
+再次点击鼠标``mouseClick``回到程序初始界面
 
-![illustration](aloha.png)
-
-## Cases
-
-Inside this folder are some interesting cases of visualization works. Please note to check and appreciate~
