@@ -16,6 +16,7 @@ void setup(){
   f = createFont("Futura", 24);
   frameRate(8);
   videoExport = new VideoExport(this, "hello.mp4");
+  videoExport.setFrameRate(8);
 }
 
 void draw(){
