@@ -22,7 +22,7 @@ class Particle {
     pg.textFont(f);
     pg.fill(txtcolor);   
     pg.textAlign(CENTER, CENTER);
-    pg.textSize(400);
+    pg.textSize(800/(letter.length()+1));
     pg.text(letter, width/2, height/2-100);
     pg.endDraw();
   }
