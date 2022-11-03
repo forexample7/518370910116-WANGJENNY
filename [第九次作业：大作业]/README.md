@@ -26,9 +26,10 @@ remark：
 
 程序初始界面：  
 You can change the letter any time
+
 任何操作过程中都可以通过键盘改变字母  
 ![image](https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display0.png)  
-点击鼠标``mouseClick``进入字体设计界面：  
+Click mouse ``mouseClick`` to enter font design interface：  
 ![image](https://github.com/forexample7/518370910116-WANGJENNY/blob/main/%5B%E7%AC%AC%E4%B9%9D%E6%AC%A1%E4%BD%9C%E4%B8%9A%EF%BC%9A%E5%A4%A7%E4%BD%9C%E4%B8%9A%5D/tool/display1.png)  
 Press ``TAB`` to change font type：  
 <table>
